@@ -11,7 +11,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Engenharia da Computação · IFMT
-- 🌱 Aprendendo agora: **TypeScript, React e Node.js**
+- 🌱 Aprendendo agora: **Django** (ColumbinaMath) e **TypeScript + Node.js** (todo-api)
 - 🎮 Interesses: desenvolvimento web, IA com Python e desenvolvimento de jogos
 - 🐧 Meu ambiente: Windows 11 + WSL 2 (Ubuntu), tudo versionado em [dotfiles](https://github.com/th1agopaes/dotfiles)
 
@@ -42,14 +42,16 @@
 
 ### 🚀 Projetos em destaque
 
-| Projeto                                                      | Descrição                                                                                           |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| [dotfiles](https://github.com/th1agopaes/dotfiles)           | Meu ambiente de desenvolvimento documentado: WSL 2, Zsh, Git assinado, backup e check-up automático |
-| [columbinamath](https://github.com/th1agopaes/columbinamath) | App web de matemática básica para adolescentes (projeto de extensão, com SCRUM)                     |
+| Projeto | Descrição |
+| --- | --- |
+| [columbinamath](https://github.com/th1agopaes/columbinamath) | App web gamificado de matemática básica para o ensino médio, em Django (Engenharia de Software, Extensão e Programação Web) |
+| [compilador-colombe](https://github.com/th1agopaes/compilador-colombe) | Compilador da Colombe, uma linguagem procedural em português, em Java com testes JUnit e CI |
+| [todo-api](https://github.com/th1agopaes/todo-api) | API REST de tarefas com Node.js, TypeScript, Express e PostgreSQL |
+| [dotfiles](https://github.com/th1agopaes/dotfiles) | Meu ambiente de desenvolvimento documentado: WSL 2, Zsh, Git assinado, backup e check-up automático |
 
 ### 📈 Em andamento
 
-- [ ] API de tarefas com Node.js, TypeScript e PostgreSQL
+- [ ] [todo-api](https://github.com/th1agopaes/todo-api): API de tarefas com Node.js, TypeScript e PostgreSQL
 - [ ] Front-end em React consumindo a API
 
 ---
